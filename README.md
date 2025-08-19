@@ -1,5 +1,6 @@
 
-# Handwritten Digit Recognition Using CRNN
+##Fa1eme Project1
+Handwritten Digit Recognition Using CRNN
 
 
 
